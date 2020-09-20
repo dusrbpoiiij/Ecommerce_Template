@@ -43,3 +43,10 @@ app.listen(PORT, () => {
 // Let's try to sign up user
 // express bodyParser not working let's install it 
 // Now it's work and user register successfully and generate token
+
+// implement login user and auth middleware 
+// now let's try to login
+// Now login is working let's make middleware to check if user sign or nor by check token
+// ok now let's get user information from token
+// Let's try
+// Know we get user information 
